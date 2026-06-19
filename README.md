@@ -1,4 +1,4 @@
-# Vanilla JS E-Commerce Product Page
+# JS E-Commerce Product Page
 
 A responsive e-commerce product page built using HTML, CSS, and JavaScript. The application dynamically displays products from a JavaScript array, allowing users to browse products and add them to a cart with a live cart counter update.
 
